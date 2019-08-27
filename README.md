@@ -8,6 +8,8 @@ nodejs createTables.js
 ```
 Se creara toda la estructura de la base de datos.
 ## Ejecutar
+```bash
 nodejs index.js
+```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
